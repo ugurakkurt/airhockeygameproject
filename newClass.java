@@ -7,8 +7,8 @@
 /**
  *
  *dsfasdfads
- * @author inciboduroglu
+ * @author 
  */
 public class newClass {
-    //
+    
 }
