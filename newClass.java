@@ -9,5 +9,5 @@
  * @author inciboduroglu
  */
 public class newClass {
-    
+    //
 }
